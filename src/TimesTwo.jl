@@ -1,5 +1,9 @@
 module TimesTwo
 
-# Write your package code here.
+using LinearAlgebra: det, logdet
+
+include("times_two.jl")
+
+export times_two
 
 end
