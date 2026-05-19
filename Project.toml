@@ -1,0 +1,7 @@
+name = "TimesTwo"
+uuid = "977262ad-a8d5-463a-bf12-e996c4c93742"
+authors = ["Adrian Hill <hill@tu-berlin.de>"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.11"
